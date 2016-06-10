@@ -5,17 +5,13 @@
  */
 package gcs_trabalho3_grupo6;
 
-/**
- *
- * @author Josimar
- */
 public class GCS_Trabalho3_Grupo6 {
-
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        System.out.println("Trabalho de Gerência de Configuração de software");      
     }
     
 }
