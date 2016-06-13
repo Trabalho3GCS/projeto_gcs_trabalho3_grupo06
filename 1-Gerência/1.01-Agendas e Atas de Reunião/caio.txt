@@ -2,3 +2,8 @@ Nome artefato: caio.txt
 Nome do(a) autor(a): Caio Romão
 Data de criação: 13/06/2016
 Hora de criação: 19:17:33
+
+Nome artefato: caio.txt 
+Nome do(a) autor(a) da alteração: Josimar MOrais
+Data da alteração: 13/06/2016
+Hora da alteração: 19:35:05
