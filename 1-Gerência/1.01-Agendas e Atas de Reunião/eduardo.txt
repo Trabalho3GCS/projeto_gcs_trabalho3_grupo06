@@ -2,3 +2,8 @@ Nome artefato: eduardo.txt
 Nome do(a) autor(a): Eduardo Horst
 Data de criação: 11/06/2016
 Hora de criação: 21:41:33 
+
+Nome artefato: eduardo.txt
+Nome do(a) autor(a) da alteração: Caio Romão
+Data da alteração: 13/06/2016
+Hora da alteração: 19:33:17 
