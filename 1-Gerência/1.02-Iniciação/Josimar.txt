@@ -1,4 +1,9 @@
 Nome artefato: josimar.txt
 Nome do(a) autor(a): Josimar Morais
-Data de cria��o: 13/06/2016
-Hora de cria��o: 00:05:10
+Data de criação: 13/06/2016
+Hora de criação: 00:05:10
+
+Nome artefato: Josimar.txt
+Nome do(a) autor(a) da alteração: Eduardo Horst
+Data da alteração: 14/06/2016
+Hora da alteração: 08:48:33
