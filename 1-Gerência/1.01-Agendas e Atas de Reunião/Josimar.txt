@@ -7,3 +7,6 @@ Nome artefato: Josimar.txt
 Nome do(a) autor(a) da alteração: Eduardo Horst
 Data da alteração: 14/06/2016
 Hora da alteração: 08:48:33 
+
+Data de alteração da tarefa 13: 14/06/2016
+Hora de alteração da tarefa 13: 22:47
