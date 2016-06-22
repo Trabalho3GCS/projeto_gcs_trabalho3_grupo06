@@ -1,0 +1,6 @@
+Nome artefato: eduardo15.txt 
+Nome do(a) autor(a) da alteração: Eduardo Horst
+Data da alteração: 22/06/2016 
+Hora da alteração: 20:45:33
+
+documento criado no trunk
