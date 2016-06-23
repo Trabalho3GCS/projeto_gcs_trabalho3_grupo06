@@ -1,0 +1,7 @@
+Nome artefato: josimarTarefa15.txt
+Nome do(a) autor(a): Josimar Morais dos Santos
+Data de criação: 14/06/2016
+Hora de criação: 23:22
+Data edição:23/06/2016
+Hora edição: 10:49:00
+documento criado no ramo2

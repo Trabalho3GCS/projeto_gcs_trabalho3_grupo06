@@ -4,6 +4,14 @@ Data de criação: 14/06/2016
 Hora de criação: 21:04:40
 
 Nome artefato: caio_romao.txt
+Nome do(a) autor(a): Eduardo Horst, Tarefa 15
+Tarefa 15
+Data de criação: 22/06/2016
+Hora de criação: 15:00:00
+Tarefa 15;
+Tarefa 15.
+
+Nome artefato: caio_romao.txt
 Nome do(a) autor(a): Eduardo Horst
 Data de criação: 21/06/2016
 Hora de criação: 16:04:40

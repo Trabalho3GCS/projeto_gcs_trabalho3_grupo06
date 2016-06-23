@@ -1,9 +1,13 @@
 Nome artefato: josimar_morais.txt
 
+
+Alteração entre linhas pedido na tarefa 15.
 Nome do(a) autor(a): Josimar Morais dos Santos
 Data de criação: 14/06/2016
 Hora de criação: 22:10:25
 
+Data de alteração da tarefa 13: 14/06/2016
+Hora de alteração da tarefa 13: 23:19:50
 Data de alteração da tarefa 15: 14/06/2016
 Hora de alteração da tarefa 15: 23:25:00
 
