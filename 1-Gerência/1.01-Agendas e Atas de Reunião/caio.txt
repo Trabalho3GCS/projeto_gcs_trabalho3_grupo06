@@ -4,6 +4,11 @@ Data de criação: 13/06/2016
 Hora de criação: 19:17:33
 
 Nome artefato: caio.txt 
-Nome do(a) autor(a) da alteração: Josimar MOrais
+Nome do(a) autor(a) da alteração: Josimar Morais alteração tarefa 13
 Data da alteração: 13/06/2016
 Hora da alteração: 19:35:05
+
+Tarefa 13;
+Tarefa 13;
+Tarefa 13.
+
